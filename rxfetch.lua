@@ -4,7 +4,7 @@
 
 rxfetch.lua
 
-OpenWrt fork of Mangeshrex's rxfetch. See https://github.com/Mangeshrex/rxfetch
+OpenWrt port of Mangeshrex's rxfetch. See https://github.com/Mangeshrex/rxfetch
 
 Usage:
 
