@@ -18,8 +18,9 @@ TODO:
 
 ]]
 
-package.path = "/root/.lualibs/?.lua;"..package.path
-pp = require("lua-pretty-print")
+-- testing stuff 
+-- package.path = "/root/.lualibs/?.lua;"..package.path
+-- pp = require("lua-pretty-print")
 
 -- colors
 esc = string.char(27)	-- Lua interpretatin of escape \nnn in strings is sketchy
